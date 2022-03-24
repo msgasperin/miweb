@@ -1,2 +1,0 @@
-Este es un segundo Hola mundo de Git
-Después del commit inicial
