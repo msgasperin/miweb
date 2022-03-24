@@ -1,1 +1,2 @@
 Este es un segundo archivo de prueba
+Otra línea de prueba
